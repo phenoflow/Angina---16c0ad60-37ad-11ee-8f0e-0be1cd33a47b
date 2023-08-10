@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/angina---primary.py
+inputModule3:
+  class: File
+  path: python/angina-control---primary.py
+inputModule4:
+  class: File
+  path: python/angina-worsening---primary.py
+inputModule5:
+  class: File
+  path: python/unstable-angina---primary.py
+inputModule6:
+  class: File
+  path: python/angina-pectoris---primary.py
+inputModule7:
+  class: File
+  path: python/angina-decubitus---primary.py
+inputModule8:
+  class: File
+  path: python/angina-anginosus---primary.py
+inputModule9:
+  class: File
+  path: python/angina-stenocardia---primary.py
+inputModule10:
+  class: File
+  path: python/ischaemic-angina---primary.py
+inputModule11:
+  class: File
+  path: python/angina-hypertension---primary.py
+inputModule12:
+  class: File
+  path: python/angina-effort---primary.py
+inputModule13:
+  class: File
+  path: python/anginal---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
